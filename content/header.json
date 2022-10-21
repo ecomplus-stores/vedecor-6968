@@ -1,17 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
+    "text": "Leve Vedecor para sua casa! ♥",
     "link": "/promotion"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Siga a gente no Insta",
+        "link": "https://www.instagram.com/ve.decor/"
       }
     ],
     "phone_wpp": true,
