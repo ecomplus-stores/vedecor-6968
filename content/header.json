@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Leve Vedecor para sua casa! ♥",
-    "link": "/promotion"
+    "text": "ESQUENTA VEDEBLACK! CONFIRA♥",
+    "link": "/promotion",
+    "background": "#000000",
+    "color": "#32c3c5"
   },
   "contacts_stripe": {
     "pages": [
@@ -16,7 +18,7 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true,
