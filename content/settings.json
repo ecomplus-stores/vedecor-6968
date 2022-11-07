@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/vedecor",
   "logo": "/img/uploads/ve-1-.png",
   "name": "Vedecor",
-  "short_name": "vedecor",
+  "short_name": "Vedecor",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -21,6 +21,6 @@
   "secondary_color": "#737373",
   "icon": "/img/uploads/ve-1-.png",
   "store_id": 50287,
-  "description": "vedecor",
+  "description": "Vedecor",
   "large_icon": "/img/uploads/ve-1-.png"
 }
