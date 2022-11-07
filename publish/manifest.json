@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.9102b7b0bed26ecc762b22464dd93a58.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.987f9bc5646774323c85a8e91e15b292.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e53767265414b726309da56381c2d3dd.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.3ceb8611daa4421a729458ba052e82a6.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.aa781435ef607b388dc6ad46ef7e4885.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Vedecor",
+  "short_name": "Vedecor",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Vedecor",
+  "background_color": "#ffffff",
+  "theme_color": "#00c2cb"
+}
